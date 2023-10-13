@@ -1,0 +1,27 @@
+.navbar {
+    padding-top: 2rem;
+}
+
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #088dc777;
+}
+
+.container {
+    padding-bottom: 2rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.container2 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.container3 {
+    padding-bottom: 2rem;
+}
+
+.container4 {
+    padding-bottom: 2rem;
+}
